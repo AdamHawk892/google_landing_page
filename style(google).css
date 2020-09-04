@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    margin: 15px;
+    /* display: block; */
+}
+
+.header-left {
+    float: left;
+}
+
+.header-right {
+    float: right;
+    /* text-align: right; */
+}
+
+.main-section {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    position: static;
+    padding: 300px;
+}
+
+/* #search {
+    text-align: center;
+} */
+
+/* .buttons {
+
+} */
+
+footer {
+    position: fixed;
+    bottom: 0;
+    display: block;
+    width: 100%;
+    margin: 15px;
+}
+
+.footer-left {
+    float: left;
+    /* position: fixed;
+    margin-bottom: ; */
+}
+
+.footer-right {
+    float: right;
+    /* position: fixed;
+    margin-bottom: ; */
+}
